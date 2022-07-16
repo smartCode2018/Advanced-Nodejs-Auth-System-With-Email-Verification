@@ -1,10 +1,10 @@
 # Advanced-Nodejs-Auth-System-With-Email-Verification
 
-This is an advance Node.js Auth Application
-Complete Register, Login and Passowrd Rest functionalities.
+This is an advance Node.js Auth Application with Complete Register, Login and Passowrd Rest functionalities.
+
 Covers Email sainding with nodemailer.
 
-To istall
+---- To istall ----
 
 Rename config.env.example to config.env and fill in your credentials and mongodb Url
 
